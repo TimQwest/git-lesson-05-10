@@ -3,3 +3,5 @@
 Hello world 
 
 Hello Tim
+
+Hello Tim (Git lesson 3)
